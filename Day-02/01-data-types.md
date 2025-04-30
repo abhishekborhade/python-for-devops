@@ -31,3 +31,11 @@ In programming, a data type is a classification or categorization that specifies
 
 8. **Custom Data Types:**
    - You can also define your custom data types using classes and objects.
+
+
+
+
+
+#########################################################################################
+Pyhon is dyanmically typed language.
+You don't have to mentioned datatype while declaring variables.e.g. x=10, name ="abhishek"
